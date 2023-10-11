@@ -362,13 +362,13 @@ a:focus {
 .product_section .box {
     position: relative;
     margin-top: 25px;
-    padding: 35px 35px;
+    padding: 0px 20px;
     background-color: #f7f8f9;
     -webkit-transition: all .3s;
     transition: all .3s;
     overflow: hidden;
-    box-shadow: 5px 5px 5px -5px rgba(0,0,0,.2);
-    border: solid #fff 10px;
+    box-shadow: 5px 5px 5px -5px rgba(0,0,0,.1);
+    border: solid #fff -8px;
 }
 
 .product_section .box .img-box {
